@@ -20,6 +20,20 @@
 		81AB9BB82411601600AC10FF /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 81AB9BB72411601600AC10FF /* LaunchScreen.storyboard */; };
 		ECD9AB8372BAB3EB9C02F51D /* libPods-FontAndIconExample-tvOS.a in Frameworks */ = {isa = PBXBuildFile; fileRef = C98DF355799BEEA1B6EBFF07 /* libPods-FontAndIconExample-tvOS.a */; };
 		FDBA4FA0DED434F481BFF7BA /* libPods-FontAndIconExample-FontAndIconExampleTests.a in Frameworks */ = {isa = PBXBuildFile; fileRef = 0B59B9B56C920E14288B5F52 /* libPods-FontAndIconExample-FontAndIconExampleTests.a */; };
+		730C9AE90BBC4D0FBA05CA00 /* Nunito-Black.ttf in Resources */ = {isa = PBXBuildFile; fileRef = ACC03F868A0C4BDE9B3F9576 /* Nunito-Black.ttf */; };
+		3F032ABE58C74A62831343D3 /* Nunito-BlackItalic.ttf in Resources */ = {isa = PBXBuildFile; fileRef = F3C06A2A881945AF9663CD6E /* Nunito-BlackItalic.ttf */; };
+		C688A6147B4643DAAF34F990 /* Nunito-Bold.ttf in Resources */ = {isa = PBXBuildFile; fileRef = D057AA13E5DF4DB8A08E9639 /* Nunito-Bold.ttf */; };
+		3620911042294143BF660C3D /* Nunito-BoldItalic.ttf in Resources */ = {isa = PBXBuildFile; fileRef = 95789D5A225C4F21B4EE2F47 /* Nunito-BoldItalic.ttf */; };
+		75166EF7E04D482B941AACBF /* Nunito-ExtraBold.ttf in Resources */ = {isa = PBXBuildFile; fileRef = 4401B8E09054418A9EF00835 /* Nunito-ExtraBold.ttf */; };
+		C43A750CC8E342859A814945 /* Nunito-ExtraBoldItalic.ttf in Resources */ = {isa = PBXBuildFile; fileRef = D90F58A6BF0D427DA7613BFA /* Nunito-ExtraBoldItalic.ttf */; };
+		085FA1FE3FC24D8CB22A4A91 /* Nunito-ExtraLight.ttf in Resources */ = {isa = PBXBuildFile; fileRef = D00D412111C94B6E892042DF /* Nunito-ExtraLight.ttf */; };
+		2C7992A0EB7647CA840F3937 /* Nunito-ExtraLightItalic.ttf in Resources */ = {isa = PBXBuildFile; fileRef = 68002E6DFD7748BF8A4374E5 /* Nunito-ExtraLightItalic.ttf */; };
+		9D2D18FF66754A2299201652 /* Nunito-Italic.ttf in Resources */ = {isa = PBXBuildFile; fileRef = 8A8BE6DC3B7A46509C9D3984 /* Nunito-Italic.ttf */; };
+		1D98220083454CC9A5947623 /* Nunito-Light.ttf in Resources */ = {isa = PBXBuildFile; fileRef = 904FA7E7DB9F41D7BCB209C5 /* Nunito-Light.ttf */; };
+		ED17ABBC7FBF4CEBB3A7A357 /* Nunito-LightItalic.ttf in Resources */ = {isa = PBXBuildFile; fileRef = D69A9265D269493EBF2341ED /* Nunito-LightItalic.ttf */; };
+		EF7920A136C7421CB5C3C2B0 /* Nunito-Regular.ttf in Resources */ = {isa = PBXBuildFile; fileRef = A2C5FF9E4F2D49CD923F3D98 /* Nunito-Regular.ttf */; };
+		DC7A98DA271C4E95B57CD4FF /* Nunito-SemiBold.ttf in Resources */ = {isa = PBXBuildFile; fileRef = E69FBBBEA9AB4E0DB7DE0D35 /* Nunito-SemiBold.ttf */; };
+		B3920F3099434B70A6C1B0CF /* Nunito-SemiBoldItalic.ttf in Resources */ = {isa = PBXBuildFile; fileRef = 2EA19E9F360C42AE8B286DDE /* Nunito-SemiBoldItalic.ttf */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -67,6 +81,20 @@
 		ED2971642150620600B7C4FE /* JavaScriptCore.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = JavaScriptCore.framework; path = Platforms/AppleTVOS.platform/Developer/SDKs/AppleTVOS12.0.sdk/System/Library/Frameworks/JavaScriptCore.framework; sourceTree = DEVELOPER_DIR; };
 		F7E723AAC7675FBEBBFED974 /* Pods-FontAndIconExample-tvOS.debug.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-FontAndIconExample-tvOS.debug.xcconfig"; path = "Target Support Files/Pods-FontAndIconExample-tvOS/Pods-FontAndIconExample-tvOS.debug.xcconfig"; sourceTree = "<group>"; };
 		F887C5F0A5450E4B8AE98C1E /* libPods-FontAndIconExample.a */ = {isa = PBXFileReference; explicitFileType = archive.ar; includeInIndex = 0; path = "libPods-FontAndIconExample.a"; sourceTree = BUILT_PRODUCTS_DIR; };
+		ACC03F868A0C4BDE9B3F9576 /* Nunito-Black.ttf */ = {isa = PBXFileReference; name = "Nunito-Black.ttf"; path = "../assets/fonts/Nunito-Black.ttf"; sourceTree = "<group>"; fileEncoding = undefined; lastKnownFileType = unknown; explicitFileType = undefined; includeInIndex = 0; };
+		F3C06A2A881945AF9663CD6E /* Nunito-BlackItalic.ttf */ = {isa = PBXFileReference; name = "Nunito-BlackItalic.ttf"; path = "../assets/fonts/Nunito-BlackItalic.ttf"; sourceTree = "<group>"; fileEncoding = undefined; lastKnownFileType = unknown; explicitFileType = undefined; includeInIndex = 0; };
+		D057AA13E5DF4DB8A08E9639 /* Nunito-Bold.ttf */ = {isa = PBXFileReference; name = "Nunito-Bold.ttf"; path = "../assets/fonts/Nunito-Bold.ttf"; sourceTree = "<group>"; fileEncoding = undefined; lastKnownFileType = unknown; explicitFileType = undefined; includeInIndex = 0; };
+		95789D5A225C4F21B4EE2F47 /* Nunito-BoldItalic.ttf */ = {isa = PBXFileReference; name = "Nunito-BoldItalic.ttf"; path = "../assets/fonts/Nunito-BoldItalic.ttf"; sourceTree = "<group>"; fileEncoding = undefined; lastKnownFileType = unknown; explicitFileType = undefined; includeInIndex = 0; };
+		4401B8E09054418A9EF00835 /* Nunito-ExtraBold.ttf */ = {isa = PBXFileReference; name = "Nunito-ExtraBold.ttf"; path = "../assets/fonts/Nunito-ExtraBold.ttf"; sourceTree = "<group>"; fileEncoding = undefined; lastKnownFileType = unknown; explicitFileType = undefined; includeInIndex = 0; };
+		D90F58A6BF0D427DA7613BFA /* Nunito-ExtraBoldItalic.ttf */ = {isa = PBXFileReference; name = "Nunito-ExtraBoldItalic.ttf"; path = "../assets/fonts/Nunito-ExtraBoldItalic.ttf"; sourceTree = "<group>"; fileEncoding = undefined; lastKnownFileType = unknown; explicitFileType = undefined; includeInIndex = 0; };
+		D00D412111C94B6E892042DF /* Nunito-ExtraLight.ttf */ = {isa = PBXFileReference; name = "Nunito-ExtraLight.ttf"; path = "../assets/fonts/Nunito-ExtraLight.ttf"; sourceTree = "<group>"; fileEncoding = undefined; lastKnownFileType = unknown; explicitFileType = undefined; includeInIndex = 0; };
+		68002E6DFD7748BF8A4374E5 /* Nunito-ExtraLightItalic.ttf */ = {isa = PBXFileReference; name = "Nunito-ExtraLightItalic.ttf"; path = "../assets/fonts/Nunito-ExtraLightItalic.ttf"; sourceTree = "<group>"; fileEncoding = undefined; lastKnownFileType = unknown; explicitFileType = undefined; includeInIndex = 0; };
+		8A8BE6DC3B7A46509C9D3984 /* Nunito-Italic.ttf */ = {isa = PBXFileReference; name = "Nunito-Italic.ttf"; path = "../assets/fonts/Nunito-Italic.ttf"; sourceTree = "<group>"; fileEncoding = undefined; lastKnownFileType = unknown; explicitFileType = undefined; includeInIndex = 0; };
+		904FA7E7DB9F41D7BCB209C5 /* Nunito-Light.ttf */ = {isa = PBXFileReference; name = "Nunito-Light.ttf"; path = "../assets/fonts/Nunito-Light.ttf"; sourceTree = "<group>"; fileEncoding = undefined; lastKnownFileType = unknown; explicitFileType = undefined; includeInIndex = 0; };
+		D69A9265D269493EBF2341ED /* Nunito-LightItalic.ttf */ = {isa = PBXFileReference; name = "Nunito-LightItalic.ttf"; path = "../assets/fonts/Nunito-LightItalic.ttf"; sourceTree = "<group>"; fileEncoding = undefined; lastKnownFileType = unknown; explicitFileType = undefined; includeInIndex = 0; };
+		A2C5FF9E4F2D49CD923F3D98 /* Nunito-Regular.ttf */ = {isa = PBXFileReference; name = "Nunito-Regular.ttf"; path = "../assets/fonts/Nunito-Regular.ttf"; sourceTree = "<group>"; fileEncoding = undefined; lastKnownFileType = unknown; explicitFileType = undefined; includeInIndex = 0; };
+		E69FBBBEA9AB4E0DB7DE0D35 /* Nunito-SemiBold.ttf */ = {isa = PBXFileReference; name = "Nunito-SemiBold.ttf"; path = "../assets/fonts/Nunito-SemiBold.ttf"; sourceTree = "<group>"; fileEncoding = undefined; lastKnownFileType = unknown; explicitFileType = undefined; includeInIndex = 0; };
+		2EA19E9F360C42AE8B286DDE /* Nunito-SemiBoldItalic.ttf */ = {isa = PBXFileReference; name = "Nunito-SemiBoldItalic.ttf"; path = "../assets/fonts/Nunito-SemiBoldItalic.ttf"; sourceTree = "<group>"; fileEncoding = undefined; lastKnownFileType = unknown; explicitFileType = undefined; includeInIndex = 0; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -149,6 +177,28 @@
 			name = Frameworks;
 			sourceTree = "<group>";
 		};
+		7AAAAEAF8E754EC0981F1540 /* Resources */ = {
+			isa = PBXGroup;
+			children = (
+				ACC03F868A0C4BDE9B3F9576 /* Nunito-Black.ttf */,
+				F3C06A2A881945AF9663CD6E /* Nunito-BlackItalic.ttf */,
+				D057AA13E5DF4DB8A08E9639 /* Nunito-Bold.ttf */,
+				95789D5A225C4F21B4EE2F47 /* Nunito-BoldItalic.ttf */,
+				4401B8E09054418A9EF00835 /* Nunito-ExtraBold.ttf */,
+				D90F58A6BF0D427DA7613BFA /* Nunito-ExtraBoldItalic.ttf */,
+				D00D412111C94B6E892042DF /* Nunito-ExtraLight.ttf */,
+				68002E6DFD7748BF8A4374E5 /* Nunito-ExtraLightItalic.ttf */,
+				8A8BE6DC3B7A46509C9D3984 /* Nunito-Italic.ttf */,
+				904FA7E7DB9F41D7BCB209C5 /* Nunito-Light.ttf */,
+				D69A9265D269493EBF2341ED /* Nunito-LightItalic.ttf */,
+				A2C5FF9E4F2D49CD923F3D98 /* Nunito-Regular.ttf */,
+				E69FBBBEA9AB4E0DB7DE0D35 /* Nunito-SemiBold.ttf */,
+				2EA19E9F360C42AE8B286DDE /* Nunito-SemiBoldItalic.ttf */,
+			);
+			name = Resources;
+			path = "";
+			sourceTree = "<group>";
+		};
 		832341AE1AAA6A7D00B99B32 /* Libraries */ = {
 			isa = PBXGroup;
 			children = (
@@ -165,6 +215,7 @@
 				83CBBA001A601CBA00E9B192 /* Products */,
 				2D16E6871FA4F8E400B85C8A /* Frameworks */,
 				CBE2826230A578E29108B1DB /* Pods */,
+				7AAAAEAF8E754EC0981F1540 /* Resources */,
 			);
 			indentWidth = 2;
 			sourceTree = "<group>";
@@ -342,6 +393,20 @@
 			files = (
 				81AB9BB82411601600AC10FF /* LaunchScreen.storyboard in Resources */,
 				13B07FBF1A68108700A75B9A /* Images.xcassets in Resources */,
+				730C9AE90BBC4D0FBA05CA00 /* Nunito-Black.ttf in Resources */,
+				3F032ABE58C74A62831343D3 /* Nunito-BlackItalic.ttf in Resources */,
+				C688A6147B4643DAAF34F990 /* Nunito-Bold.ttf in Resources */,
+				3620911042294143BF660C3D /* Nunito-BoldItalic.ttf in Resources */,
+				75166EF7E04D482B941AACBF /* Nunito-ExtraBold.ttf in Resources */,
+				C43A750CC8E342859A814945 /* Nunito-ExtraBoldItalic.ttf in Resources */,
+				085FA1FE3FC24D8CB22A4A91 /* Nunito-ExtraLight.ttf in Resources */,
+				2C7992A0EB7647CA840F3937 /* Nunito-ExtraLightItalic.ttf in Resources */,
+				9D2D18FF66754A2299201652 /* Nunito-Italic.ttf in Resources */,
+				1D98220083454CC9A5947623 /* Nunito-Light.ttf in Resources */,
+				ED17ABBC7FBF4CEBB3A7A357 /* Nunito-LightItalic.ttf in Resources */,
+				EF7920A136C7421CB5C3C2B0 /* Nunito-Regular.ttf in Resources */,
+				DC7A98DA271C4E95B57CD4FF /* Nunito-SemiBold.ttf in Resources */,
+				B3920F3099434B70A6C1B0CF /* Nunito-SemiBoldItalic.ttf in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -442,10 +507,42 @@
 			);
 			inputPaths = (
 				"${PODS_ROOT}/Target Support Files/Pods-FontAndIconExample/Pods-FontAndIconExample-resources.sh",
+				"${PODS_ROOT}/../../node_modules/react-native-vector-icons/Fonts/AntDesign.ttf",
+				"${PODS_ROOT}/../../node_modules/react-native-vector-icons/Fonts/Entypo.ttf",
+				"${PODS_ROOT}/../../node_modules/react-native-vector-icons/Fonts/EvilIcons.ttf",
+				"${PODS_ROOT}/../../node_modules/react-native-vector-icons/Fonts/Feather.ttf",
+				"${PODS_ROOT}/../../node_modules/react-native-vector-icons/Fonts/FontAwesome.ttf",
+				"${PODS_ROOT}/../../node_modules/react-native-vector-icons/Fonts/FontAwesome5_Brands.ttf",
+				"${PODS_ROOT}/../../node_modules/react-native-vector-icons/Fonts/FontAwesome5_Regular.ttf",
+				"${PODS_ROOT}/../../node_modules/react-native-vector-icons/Fonts/FontAwesome5_Solid.ttf",
+				"${PODS_ROOT}/../../node_modules/react-native-vector-icons/Fonts/Fontisto.ttf",
+				"${PODS_ROOT}/../../node_modules/react-native-vector-icons/Fonts/Foundation.ttf",
+				"${PODS_ROOT}/../../node_modules/react-native-vector-icons/Fonts/Ionicons.ttf",
+				"${PODS_ROOT}/../../node_modules/react-native-vector-icons/Fonts/MaterialCommunityIcons.ttf",
+				"${PODS_ROOT}/../../node_modules/react-native-vector-icons/Fonts/MaterialIcons.ttf",
+				"${PODS_ROOT}/../../node_modules/react-native-vector-icons/Fonts/Octicons.ttf",
+				"${PODS_ROOT}/../../node_modules/react-native-vector-icons/Fonts/SimpleLineIcons.ttf",
+				"${PODS_ROOT}/../../node_modules/react-native-vector-icons/Fonts/Zocial.ttf",
 				"${PODS_CONFIGURATION_BUILD_DIR}/React-Core/AccessibilityResources.bundle",
 			);
 			name = "[CP] Copy Pods Resources";
 			outputPaths = (
+				"${TARGET_BUILD_DIR}/${UNLOCALIZED_RESOURCES_FOLDER_PATH}/AntDesign.ttf",
+				"${TARGET_BUILD_DIR}/${UNLOCALIZED_RESOURCES_FOLDER_PATH}/Entypo.ttf",
+				"${TARGET_BUILD_DIR}/${UNLOCALIZED_RESOURCES_FOLDER_PATH}/EvilIcons.ttf",
+				"${TARGET_BUILD_DIR}/${UNLOCALIZED_RESOURCES_FOLDER_PATH}/Feather.ttf",
+				"${TARGET_BUILD_DIR}/${UNLOCALIZED_RESOURCES_FOLDER_PATH}/FontAwesome.ttf",
+				"${TARGET_BUILD_DIR}/${UNLOCALIZED_RESOURCES_FOLDER_PATH}/FontAwesome5_Brands.ttf",
+				"${TARGET_BUILD_DIR}/${UNLOCALIZED_RESOURCES_FOLDER_PATH}/FontAwesome5_Regular.ttf",
+				"${TARGET_BUILD_DIR}/${UNLOCALIZED_RESOURCES_FOLDER_PATH}/FontAwesome5_Solid.ttf",
+				"${TARGET_BUILD_DIR}/${UNLOCALIZED_RESOURCES_FOLDER_PATH}/Fontisto.ttf",
+				"${TARGET_BUILD_DIR}/${UNLOCALIZED_RESOURCES_FOLDER_PATH}/Foundation.ttf",
+				"${TARGET_BUILD_DIR}/${UNLOCALIZED_RESOURCES_FOLDER_PATH}/Ionicons.ttf",
+				"${TARGET_BUILD_DIR}/${UNLOCALIZED_RESOURCES_FOLDER_PATH}/MaterialCommunityIcons.ttf",
+				"${TARGET_BUILD_DIR}/${UNLOCALIZED_RESOURCES_FOLDER_PATH}/MaterialIcons.ttf",
+				"${TARGET_BUILD_DIR}/${UNLOCALIZED_RESOURCES_FOLDER_PATH}/Octicons.ttf",
+				"${TARGET_BUILD_DIR}/${UNLOCALIZED_RESOURCES_FOLDER_PATH}/SimpleLineIcons.ttf",
+				"${TARGET_BUILD_DIR}/${UNLOCALIZED_RESOURCES_FOLDER_PATH}/Zocial.ttf",
 				"${TARGET_BUILD_DIR}/${UNLOCALIZED_RESOURCES_FOLDER_PATH}/AccessibilityResources.bundle",
 			);
 			runOnlyForDeploymentPostprocessing = 0;
@@ -460,10 +557,42 @@
 			);
 			inputPaths = (
 				"${PODS_ROOT}/Target Support Files/Pods-FontAndIconExample-FontAndIconExampleTests/Pods-FontAndIconExample-FontAndIconExampleTests-resources.sh",
+				"${PODS_ROOT}/../../node_modules/react-native-vector-icons/Fonts/AntDesign.ttf",
+				"${PODS_ROOT}/../../node_modules/react-native-vector-icons/Fonts/Entypo.ttf",
+				"${PODS_ROOT}/../../node_modules/react-native-vector-icons/Fonts/EvilIcons.ttf",
+				"${PODS_ROOT}/../../node_modules/react-native-vector-icons/Fonts/Feather.ttf",
+				"${PODS_ROOT}/../../node_modules/react-native-vector-icons/Fonts/FontAwesome.ttf",
+				"${PODS_ROOT}/../../node_modules/react-native-vector-icons/Fonts/FontAwesome5_Brands.ttf",
+				"${PODS_ROOT}/../../node_modules/react-native-vector-icons/Fonts/FontAwesome5_Regular.ttf",
+				"${PODS_ROOT}/../../node_modules/react-native-vector-icons/Fonts/FontAwesome5_Solid.ttf",
+				"${PODS_ROOT}/../../node_modules/react-native-vector-icons/Fonts/Fontisto.ttf",
+				"${PODS_ROOT}/../../node_modules/react-native-vector-icons/Fonts/Foundation.ttf",
+				"${PODS_ROOT}/../../node_modules/react-native-vector-icons/Fonts/Ionicons.ttf",
+				"${PODS_ROOT}/../../node_modules/react-native-vector-icons/Fonts/MaterialCommunityIcons.ttf",
+				"${PODS_ROOT}/../../node_modules/react-native-vector-icons/Fonts/MaterialIcons.ttf",
+				"${PODS_ROOT}/../../node_modules/react-native-vector-icons/Fonts/Octicons.ttf",
+				"${PODS_ROOT}/../../node_modules/react-native-vector-icons/Fonts/SimpleLineIcons.ttf",
+				"${PODS_ROOT}/../../node_modules/react-native-vector-icons/Fonts/Zocial.ttf",
 				"${PODS_CONFIGURATION_BUILD_DIR}/React-Core/AccessibilityResources.bundle",
 			);
 			name = "[CP] Copy Pods Resources";
 			outputPaths = (
+				"${TARGET_BUILD_DIR}/${UNLOCALIZED_RESOURCES_FOLDER_PATH}/AntDesign.ttf",
+				"${TARGET_BUILD_DIR}/${UNLOCALIZED_RESOURCES_FOLDER_PATH}/Entypo.ttf",
+				"${TARGET_BUILD_DIR}/${UNLOCALIZED_RESOURCES_FOLDER_PATH}/EvilIcons.ttf",
+				"${TARGET_BUILD_DIR}/${UNLOCALIZED_RESOURCES_FOLDER_PATH}/Feather.ttf",
+				"${TARGET_BUILD_DIR}/${UNLOCALIZED_RESOURCES_FOLDER_PATH}/FontAwesome.ttf",
+				"${TARGET_BUILD_DIR}/${UNLOCALIZED_RESOURCES_FOLDER_PATH}/FontAwesome5_Brands.ttf",
+				"${TARGET_BUILD_DIR}/${UNLOCALIZED_RESOURCES_FOLDER_PATH}/FontAwesome5_Regular.ttf",
+				"${TARGET_BUILD_DIR}/${UNLOCALIZED_RESOURCES_FOLDER_PATH}/FontAwesome5_Solid.ttf",
+				"${TARGET_BUILD_DIR}/${UNLOCALIZED_RESOURCES_FOLDER_PATH}/Fontisto.ttf",
+				"${TARGET_BUILD_DIR}/${UNLOCALIZED_RESOURCES_FOLDER_PATH}/Foundation.ttf",
+				"${TARGET_BUILD_DIR}/${UNLOCALIZED_RESOURCES_FOLDER_PATH}/Ionicons.ttf",
+				"${TARGET_BUILD_DIR}/${UNLOCALIZED_RESOURCES_FOLDER_PATH}/MaterialCommunityIcons.ttf",
+				"${TARGET_BUILD_DIR}/${UNLOCALIZED_RESOURCES_FOLDER_PATH}/MaterialIcons.ttf",
+				"${TARGET_BUILD_DIR}/${UNLOCALIZED_RESOURCES_FOLDER_PATH}/Octicons.ttf",
+				"${TARGET_BUILD_DIR}/${UNLOCALIZED_RESOURCES_FOLDER_PATH}/SimpleLineIcons.ttf",
+				"${TARGET_BUILD_DIR}/${UNLOCALIZED_RESOURCES_FOLDER_PATH}/Zocial.ttf",
 				"${TARGET_BUILD_DIR}/${UNLOCALIZED_RESOURCES_FOLDER_PATH}/AccessibilityResources.bundle",
 			);
 			runOnlyForDeploymentPostprocessing = 0;
